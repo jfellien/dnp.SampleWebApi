@@ -1,6 +1,34 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
+Thumbs.db
+desktop.ini
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.user
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+provider/
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Rr]eports*/*.xml
+[Tt]est[Rr]esult*
+[Nn]Depend*/
+_UpgradeReport*/
+[Bb]uild[Oo]utput*/
+*.ncrunch*
 
-# mstest test results
-TestResults
